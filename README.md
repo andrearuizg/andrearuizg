@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker, Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/andrearuizg?tab=projects](https://github.com/andrearuizg?tab=projects)
+- 👨‍💻 All of my projects are available [here!!!](https://github.com/andrearuizg?tab=repositories)
 
 - 📫 How to reach me **andreajulianaruiz@hotmail.com**
 
