@@ -23,7 +23,7 @@
 <h2 align="left">:iphone: Connect with me:</h2>
 <p align="left">
 <a href="https://fb.com/andreajulianaruiz1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="andreajulianaruiz1" height="30" width="40" /></a>
-<a href="https://instagram.com/andrearuizg_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="andrearuizg_" height="30" width="40" /></a>
+<a href="https://instagram.com/andrearuizgomez_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="andrearuizg_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/andrearuizgomez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andrearuizgomez" height="30" width="40" /></a>
 <a href="mailto:andreajulianaruiz@hotmail.com"><img align="center" src="https://cdn.icon-icons.com/icons2/614/PNG/512/email-envelope-outline-shape-with-rounded-corners_icon-icons.com_56530.png" alt="Send me an email to my personal account" height="40" width="40" /></a>
 <a href="mailto:andrea_ruiz@javeriana.edu.co"><img align="center" src="https://cdn.icon-icons.com/icons2/614/PNG/512/email-black-envelope-back_icon-icons.com_56531.png" alt="Send me an email to my educational account" height="40" width="40" /></a>
