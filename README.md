@@ -4,7 +4,7 @@
 <h2 align="left">:star: About me:</h2>
 <p align="left">
   
-- :school: I'm an 8<sup>th</sup> semester student of Electronic Engineering at Pontificia Universidad Javeriana :round_pushpin: Bogotá, Colombia.
+- :school: I'm an 9<sup>th</sup> semester student of Electronic Engineering at Pontificia Universidad Javeriana :round_pushpin: Bogotá, Colombia.
 
 - :pencil: I have emphasis in **signals** and **digitals**, with interest in **AI** and **signal processing**.
   
